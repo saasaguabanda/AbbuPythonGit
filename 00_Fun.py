@@ -1,7 +1,7 @@
 
 name = input('Tell me your name: ')
 print('Hello',name)
-
+#I SEE U
 def guess():
     number = input('Guess which number between 0-10 I want you to enter: ')
     try:
